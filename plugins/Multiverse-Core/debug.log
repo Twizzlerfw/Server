@@ -1,0 +1,20 @@
+2015-12-23 09:41:24 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-12-23 09:41:25 [INFO] [Multiverse-Core] Loading World & Settings - 'LobbyWorld' - Env: NORMAL - Type: NORMAL & seed: -5538661397431314319
+2015-12-23 09:41:25 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-12-23 09:41:25 [WARNING] [Multiverse-Core] Original Location: X: -68 Y: 64 Z: 248 P: 0 Y: 0 
+2015-12-23 09:41:25 [INFO] [Multiverse-Core] New Spawn for 'LobbyWorld' is Located at: LobbyWorld:-74.50,64.00,241.50:0.00:0.00
+2015-12-23 09:41:25 [INFO] [Multiverse-Core] Loading World & Settings - 'LobbyWorld_nether' - Env: NETHER - Type: NORMAL & seed: -5538661397431314319
+2015-12-23 09:41:25 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-12-23 09:41:25 [WARNING] [Multiverse-Core] Original Location: X: -68 Y: 64 Z: 248 P: 0 Y: 0 
+2015-12-23 09:41:25 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-12-23 09:41:25 [INFO] [Multiverse-Core] Loading World & Settings - 'LobbyWorld_the_end' - Env: THE_END - Type: NORMAL & seed: -5538661397431314319
+2015-12-23 09:41:25 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-12-23 09:41:25 [WARNING] [Multiverse-Core] Original Location: X: -68 Y: 64 Z: 248 P: 0 Y: 0 
+2015-12-23 09:41:25 [INFO] [Multiverse-Core] New Spawn for 'LobbyWorld_the_end' is Located at: LobbyWorld_the_end:0.00,58.00,0.00:0.00:0.00
+2015-12-23 09:41:27 [INFO] [Multiverse-Core] Loading World & Settings - 'LobbyWorld' - Env: NORMAL - Type: NORMAL & seed: -5538661397431314319
+2015-12-23 09:41:28 [INFO] [Multiverse-Core] Loading World & Settings - 'LobbyWorld_nether' - Env: NETHER - Type: NORMAL & seed: -5538661397431314319
+2015-12-23 09:41:28 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-12-23 09:41:28 [WARNING] [Multiverse-Core] Original Location: X: -68 Y: 64 Z: 248 P: 0 Y: 0 
+2015-12-23 09:41:28 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-12-23 09:41:28 [INFO] [Multiverse-Core] Loading World & Settings - 'LobbyWorld_the_end' - Env: THE_END - Type: NORMAL & seed: -5538661397431314319
+2015-12-23 09:41:28 [INFO] [Multiverse-Core] 3 - World(s) loaded.

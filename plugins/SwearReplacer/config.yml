@@ -1,0 +1,26 @@
+# Thanks for downloading my plugin SwearReplacer!
+# 
+# This config is really easy to use. All you gotta do is put the word you want to be replaced, followed by a semicolon, then the word you want to replace it with. Like this:
+# Word;OtherWord
+# 
+# You can even use multiple words in both bits, like:
+# Thing to be replaced;Thing you're replacing it with
+# 
+# The ones below are examples. Feel free to change them. (I suggest you do as that's kinda the point of the plugin xD)
+
+replacements:
+- Word/sHere;ReplacementHere
+- Can even be multiple words;Replacement Here
+- shit;s***
+- fuck;f***
+- bitch;b***
+- dahn;D***
+- damn;D***
+- damnit;D***
+- dangit;d******
+- lag;My Computer Is Slo
+- twz;Sir
+- wtf;wt*
+- dick;d***
+- stfu;I AM DUMB
+- fart;I Fart A lot

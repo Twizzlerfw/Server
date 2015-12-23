@@ -1,0 +1,32 @@
+# # options.debug: must the debug output be printed?
+# # options.difficulty: what is the server diffeculty?
+# # options.locale: what set of lang files must be used, supported: en_US, nl_NL, de_DE, it_IT
+# # spawnGroup: used to set withs worlds have what spawn, difficult to use. see official site for details
+options:
+  debug: false
+  difficulty: NORMAL
+  usecreativemode: false
+  usecreativemodeinv: true
+  blockEnderChestInCrea: false
+  useEndPortalHandler: false
+  useportalhandler: false
+  useWorldSpawnHandler: false
+worlds:
+  LobbyWorld:
+    seed: -5538661397431314319
+    worldgen: NORMAL
+    options: ''
+    difficulty: EASY
+    autoload: true
+  LobbyWorld_nether:
+    seed: -5538661397431314319
+    worldgen: NETHER
+    options: ''
+    difficulty: EASY
+    autoload: true
+  LobbyWorld_the_end:
+    seed: -5538661397431314319
+    worldgen: THE_END
+    options: ''
+    difficulty: EASY
+    autoload: true

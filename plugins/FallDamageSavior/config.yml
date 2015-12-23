@@ -1,0 +1,16 @@
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-# About Plugin/Author #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+# Name: Fall Damage Savior
+# Author: Goty
+# Bukkit Profile: http://dev.bukkit.org/profiles/Mayhem777/
+# Version 2.1
+### Description: This plugin cancels damage taken from falls.
+# Can cancel damage when falling over custom block types (default is sponge for the 3 blocks)
+# Also, can cancel the falling damage from ALL sources with a permission.
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-# About Plugin/Author #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+
+
+#====================================== Customize Savior Blocks ======================================#
+### Change the block material you want for the Savior Blocks!
+# Add the block materials you want, use only material IDs, just copy the line below to add more IDs.
+Block_IDs:
+  - 19

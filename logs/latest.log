@@ -1,0 +1,340 @@
+[09:41:02] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[09:41:02] [Server thread/INFO]: Loading properties
+[09:41:02] [Server thread/INFO]: Default game type: SURVIVAL
+[09:41:02] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-5f38d38-12698ea (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[09:41:02] [Server thread/INFO]: Debug logging is disabled
+[09:41:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:41:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:41:02] [Server thread/INFO]: Generating keypair
+[09:41:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:41:03] [Server thread/INFO]: Using default channel type
+[09:41:03] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[09:41:04] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.6
+[09:41:04] [Server thread/INFO]: [SwearReplacer] Loading SwearReplacer v1.0
+[09:41:04] [Server thread/INFO]: [HideStream] Loading HideStream v3.7
+[09:41:04] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.0 (Phoenix)
+[09:41:04] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
+[09:41:04] [Server thread/INFO]: [AntiCheat] Loading AntiCheat v2.0.2
+[09:41:04] [Server thread/INFO]: [FireworkRider] Loading FireworkRider v1.0
+[09:41:04] [Server thread/INFO]: [ColorGuide] Loading ColorGuide v1.3.3
+[09:41:04] [Server thread/INFO]: [NoRain] Loading NoRain v0.2
+[09:41:04] [Server thread/INFO]: [Launchpads] Loading Launchpads v3.0.0
+[09:41:04] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.8.3
+[09:41:04] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[09:41:04] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v5.9
+[09:41:04] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[09:41:04] [Server thread/INFO]: [FallDamageSavior] Loading FallDamageSavior v2.1
+[09:41:04] [Server thread/INFO]: [Punishmental] Loading Punishmental v5.1
+[09:41:04] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP vTeamCity
+[09:41:04] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[09:41:04] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v1.0
+[09:41:04] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v2.5-b335
+[09:41:04] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP vTeamCity
+[09:41:04] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vTeamCity
+[09:41:04] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[09:41:04] [Server thread/INFO]: Preparing level "LobbyWorld"
+[09:41:04] [Server thread/INFO]: -------- World Settings For [LobbyWorld] --------
+[09:41:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:41:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:41:04] [Server thread/INFO]: Random Lighting Updates: false
+[09:41:04] [Server thread/INFO]: Structure Info Saving: true
+[09:41:04] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:41:04] [Server thread/INFO]: Max Entity Collisions: 8
+[09:41:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:41:04] [Server thread/INFO]: Max TNT Explosions: 100
+[09:41:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:41:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:41:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:41:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:41:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:41:04] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:41:04] [Server thread/INFO]: Clear tick list: false
+[09:41:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:41:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:41:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:41:04] [Server thread/INFO]: View Distance: 10
+[09:41:04] [Server thread/INFO]: Mob Spawn Range: 4
+[09:41:04] [Server thread/INFO]: Anti X-Ray: true
+[09:41:04] [Server thread/INFO]: 	Engine Mode: 1
+[09:41:04] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:41:04] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:41:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:41:04] [Server thread/INFO]: ---- Migration of old nether folder required ----
+[09:41:04] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+[09:41:04] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[09:41:04] [Server thread/INFO]: Attempting to move LobbyWorld/DIM-1 to LobbyWorld_nether/DIM-1...
+[09:41:04] [Server thread/INFO]: Success! To restore nether in the future, simply move LobbyWorld_nether/DIM-1 to LobbyWorld/DIM-1
+[09:41:04] [Server thread/INFO]: ---- Migration of old nether folder complete ----
+[09:41:04] [Server thread/INFO]: -------- World Settings For [LobbyWorld_nether] --------
+[09:41:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:41:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:41:04] [Server thread/INFO]: Random Lighting Updates: false
+[09:41:04] [Server thread/INFO]: Structure Info Saving: true
+[09:41:04] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:41:04] [Server thread/INFO]: Max Entity Collisions: 8
+[09:41:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:41:04] [Server thread/INFO]: Max TNT Explosions: 100
+[09:41:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:41:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:41:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:41:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:41:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:41:04] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:41:04] [Server thread/INFO]: Clear tick list: false
+[09:41:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:41:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:41:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:41:04] [Server thread/INFO]: View Distance: 10
+[09:41:04] [Server thread/INFO]: Mob Spawn Range: 4
+[09:41:04] [Server thread/INFO]: Anti X-Ray: true
+[09:41:04] [Server thread/INFO]: 	Engine Mode: 1
+[09:41:04] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:41:04] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:41:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:41:04] [Server thread/INFO]: ---- Migration of old the_end folder required ----
+[09:41:04] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+[09:41:04] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[09:41:04] [Server thread/INFO]: Attempting to move LobbyWorld/DIM1 to LobbyWorld_the_end/DIM1...
+[09:41:04] [Server thread/INFO]: Success! To restore the_end in the future, simply move LobbyWorld_the_end/DIM1 to LobbyWorld/DIM1
+[09:41:04] [Server thread/INFO]: ---- Migration of old the_end folder complete ----
+[09:41:04] [Server thread/INFO]: -------- World Settings For [LobbyWorld_the_end] --------
+[09:41:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:41:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:41:04] [Server thread/INFO]: Random Lighting Updates: false
+[09:41:04] [Server thread/INFO]: Structure Info Saving: true
+[09:41:04] [Server thread/INFO]: Sending up to 10 chunks per packet
+[09:41:04] [Server thread/INFO]: Max Entity Collisions: 8
+[09:41:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:41:04] [Server thread/INFO]: Max TNT Explosions: 100
+[09:41:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:41:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:41:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:41:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:41:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:41:04] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:41:04] [Server thread/INFO]: Clear tick list: false
+[09:41:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:41:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:41:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:41:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:41:04] [Server thread/INFO]: View Distance: 10
+[09:41:04] [Server thread/INFO]: Mob Spawn Range: 4
+[09:41:04] [Server thread/INFO]: Anti X-Ray: true
+[09:41:04] [Server thread/INFO]: 	Engine Mode: 1
+[09:41:04] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:41:04] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:41:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:41:04] [Server thread/INFO]: Preparing start region for level 0 (Seed: -5538661397431314319)
+[09:41:05] [Server thread/INFO]: Preparing spawn area: 38%
+[09:41:06] [Server thread/INFO]: Preparing start region for level 1 (Seed: -5538661397431314319)
+[09:41:07] [Server thread/INFO]: Preparing spawn area: 9%
+[09:41:08] [Server thread/INFO]: Preparing spawn area: 16%
+[09:41:10] [Server thread/INFO]: Preparing spawn area: 30%
+[09:41:11] [Server thread/INFO]: Preparing spawn area: 43%
+[09:41:12] [Server thread/INFO]: Preparing spawn area: 59%
+[09:41:13] [Server thread/INFO]: Preparing spawn area: 72%
+[09:41:14] [Server thread/INFO]: Preparing spawn area: 88%
+[09:41:15] [Server thread/INFO]: Preparing spawn area: 99%
+[09:41:15] [Server thread/INFO]: Preparing start region for level 2 (Seed: -5538661397431314319)
+[09:41:16] [Server thread/INFO]: Preparing spawn area: 39%
+[09:41:17] [Server thread/INFO]: Preparing spawn area: 73%
+[09:41:18] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.6
+[09:41:19] [Server thread/INFO]: [MultiWorld] v5.2.6 enabled.
+[09:41:19] [Server thread/INFO]: [SwearReplacer] Enabling SwearReplacer v1.0
+[09:41:19] [Server thread/INFO]: [0;31;22mSwear[0;32;1mReplacer [mhas been [0;32;1m[21menabled [mand is (probably) working![m
+[09:41:19] [Server thread/INFO]: [HideStream] Enabling HideStream v3.7
+[09:41:19] [Server thread/INFO]: [HideStream] Version 3.7 enabled.
+[09:41:19] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.0 (Phoenix)
+[09:41:19] [Server thread/INFO]: GroupManager - INFO - World Found: lobbyworld
+[09:41:19] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[09:41:19] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[09:41:19] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[09:41:20] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[09:41:20] [Server thread/INFO]: GroupManager version 2.0 (Phoenix) is enabled!
+[09:41:20] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
+[09:41:22] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
+[09:41:22] [Server thread/INFO]: WEPIF: Updated config file
+[09:41:22] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[09:41:22] [Server thread/WARN]: [WorldEdit] 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and biome-related functions.
+**
+** Please see http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
+**********************************************
+
+[09:41:22] [Server thread/INFO]: [AntiCheat] Enabling AntiCheat v2.0.2
+[09:41:23] [Server thread/INFO]: [FireworkRider] Enabling FireworkRider v1.0
+[09:41:23] [Server thread/INFO]: [ColorGuide] Enabling ColorGuide v1.3.3
+[09:41:23] [Server thread/INFO]: [NoRain] Enabling NoRain v0.2
+[09:41:24] [Server thread/INFO]: Rain disabled in world: LobbyWorld
+[09:41:24] [Server thread/INFO]: Rain disabled in world: LobbyWorld_nether
+[09:41:24] [Server thread/INFO]: Rain disabled in world: LobbyWorld_the_end
+[09:41:24] [Server thread/INFO]: [Launchpads] Enabling Launchpads v3.0.0
+[09:41:24] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.8.3
+[09:41:24] [Server thread/INFO]: [ClearLag] Loading modules...
+[09:41:24] [Server thread/INFO]: [ClearLag] Config not found. Generating default config...
+[09:41:24] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[09:41:24] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[09:41:24] [Thread-10/INFO]: [ClearLag] Checking for updates...
+[09:41:24] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[09:41:24] [Server thread/INFO]: [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+[09:41:24] [Server thread/INFO]: [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+[09:41:25] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'LobbyWorld' - Env: NORMAL - Type: NORMAL & seed: -5538661397431314319
+[09:41:25] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[09:41:25] [Server thread/WARN]: [Multiverse-Core] Original Location: X: -68 Y: 64 Z: 248 P: 0 Y: 0 
+[09:41:25] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'LobbyWorld' is Located at: LobbyWorld:-74.50,64.00,241.50:0.00:0.00
+[09:41:25] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'LobbyWorld_nether' - Env: NETHER - Type: NORMAL & seed: -5538661397431314319
+[09:41:25] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[09:41:25] [Server thread/WARN]: [Multiverse-Core] Original Location: X: -68 Y: 64 Z: 248 P: 0 Y: 0 
+[09:41:25] [Server thread/ERROR]: [Multiverse-Core] New safe spawn NOT found!!!
+[09:41:25] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'LobbyWorld_the_end' - Env: THE_END - Type: NORMAL & seed: -5538661397431314319
+[09:41:25] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[09:41:25] [Server thread/WARN]: [Multiverse-Core] Original Location: X: -68 Y: 64 Z: 248 P: 0 Y: 0 
+[09:41:25] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'LobbyWorld_the_end' is Located at: LobbyWorld_the_end:0.00,58.00,0.00:0.00:0.00
+[09:41:27] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'LobbyWorld' - Env: NORMAL - Type: NORMAL & seed: -5538661397431314319
+[09:41:28] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'LobbyWorld_nether' - Env: NETHER - Type: NORMAL & seed: -5538661397431314319
+[09:41:28] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[09:41:28] [Server thread/WARN]: [Multiverse-Core] Original Location: X: -68 Y: 64 Z: 248 P: 0 Y: 0 
+[09:41:28] [Server thread/ERROR]: [Multiverse-Core] New safe spawn NOT found!!!
+[09:41:28] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'LobbyWorld_the_end' - Env: THE_END - Type: NORMAL & seed: -5538661397431314319
+[09:41:28] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[09:41:28] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v5.9
+[09:41:28] [Server thread/INFO]: [WorldGuard] Default configuration file written: /Users/johnskees/Desktop/Server/plugins/WorldGuard/config.yml
+[09:41:28] [Server thread/INFO]: [WorldGuard] Default configuration file written: /Users/johnskees/Desktop/Server/plugins/WorldGuard/worlds/LobbyWorld/config.yml
+[09:41:28] [Server thread/INFO]: [WorldGuard] Default configuration file written: /Users/johnskees/Desktop/Server/plugins/WorldGuard/worlds/LobbyWorld/blacklist.txt
+[09:41:28] [Server thread/INFO]: [WorldGuard] (LobbyWorld) TNT ignition is PERMITTED.
+[09:41:28] [Server thread/INFO]: [WorldGuard] (LobbyWorld) Lighters are PERMITTED.
+[09:41:28] [Server thread/INFO]: [WorldGuard] (LobbyWorld) Lava fire is blocked.
+[09:41:28] [Server thread/INFO]: [WorldGuard] (LobbyWorld) Fire spread is UNRESTRICTED.
+[09:41:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'LobbyWorld'
+[09:41:28] [Server thread/INFO]: [WorldGuard] Default configuration file written: /Users/johnskees/Desktop/Server/plugins/WorldGuard/worlds/LobbyWorld_nether/config.yml
+[09:41:28] [Server thread/INFO]: [WorldGuard] Default configuration file written: /Users/johnskees/Desktop/Server/plugins/WorldGuard/worlds/LobbyWorld_nether/blacklist.txt
+[09:41:28] [Server thread/INFO]: [WorldGuard] (LobbyWorld_nether) TNT ignition is PERMITTED.
+[09:41:28] [Server thread/INFO]: [WorldGuard] (LobbyWorld_nether) Lighters are PERMITTED.
+[09:41:28] [Server thread/INFO]: [WorldGuard] (LobbyWorld_nether) Lava fire is blocked.
+[09:41:28] [Server thread/INFO]: [WorldGuard] (LobbyWorld_nether) Fire spread is UNRESTRICTED.
+[09:41:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'LobbyWorld_nether'
+[09:41:29] [Server thread/INFO]: [WorldGuard] Default configuration file written: /Users/johnskees/Desktop/Server/plugins/WorldGuard/worlds/LobbyWorld_the_end/config.yml
+[09:41:29] [Server thread/INFO]: [WorldGuard] Default configuration file written: /Users/johnskees/Desktop/Server/plugins/WorldGuard/worlds/LobbyWorld_the_end/blacklist.txt
+[09:41:29] [Server thread/INFO]: [WorldGuard] (LobbyWorld_the_end) TNT ignition is PERMITTED.
+[09:41:29] [Server thread/INFO]: [WorldGuard] (LobbyWorld_the_end) Lighters are PERMITTED.
+[09:41:29] [Server thread/INFO]: [WorldGuard] (LobbyWorld_the_end) Lava fire is blocked.
+[09:41:29] [Server thread/INFO]: [WorldGuard] (LobbyWorld_the_end) Fire spread is UNRESTRICTED.
+[09:41:29] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'LobbyWorld_the_end'
+[09:41:29] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'LobbyWorld'
+[09:41:29] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'LobbyWorld_nether'
+[09:41:29] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'LobbyWorld_the_end'
+[09:41:29] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[09:41:30] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[09:41:30] [Server thread/INFO]: git-Spigot-5f38d38-12698ea (MC: 1.8.8)
+[09:41:30] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[09:41:30] [Server thread/INFO]: Creating config from template: /Users/johnskees/Desktop/Server/plugins/Essentials/config.yml
+[09:41:31] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[09:41:31] [pool-6-thread-1/INFO]: Creating empty config: /Users/johnskees/Desktop/Server/plugins/Essentials/upgrades-done.yml
+[09:41:31] [Server thread/INFO]: Using locale en_US
+[09:41:31] [Thread-10/INFO]: [ClearLag] No updates found!
+[09:41:31] [Server thread/INFO]: Creating config from template: /Users/johnskees/Desktop/Server/plugins/Essentials/worth.yml
+[09:41:32] [Server thread/INFO]: Using locale en_US
+[09:41:32] [Server thread/INFO]: [Essentials] This plugin collects minimal statistic data and sends it to http://metrics.essentials3.net.
+[09:41:32] [Server thread/INFO]: [Essentials] You can opt out, disabling metrics for all plugins, by running /essentials opt-out
+[09:41:32] [Server thread/INFO]: [Essentials] This will start 5 minutes after the first admin/op joins.
+[09:41:32] [Server thread/INFO]: Essentials: Using GroupManager based permissions.
+[09:41:32] [Server thread/INFO]: [FallDamageSavior] Enabling FallDamageSavior v2.1
+[09:41:32] [Server thread/INFO]: <<[ FallDamageSavior ]>>  [ Version ]=[ 2.1 ] [ Cargada Correctamente ]
+[09:41:32] [Server thread/INFO]: [Punishmental] Enabling Punishmental v5.1
+[09:41:32] [Server thread/INFO]: 5.1
+[09:41:32] [Server thread/WARN]: §a[Punishmental] Starting lag checker
+[09:41:32] [Server thread/WARN]: §a[Punishmental] Lag cheker running
+[09:41:32] [Server thread/INFO]: [Punishmental]: Connecting to WorldEdit
+[09:41:32] [Server thread/INFO]: [Punishmental]: WorldEdit found and loaded, loading punishable areas
+[09:41:32] [Server thread/INFO]: [Punishmental]: Commands READY
+[09:41:32] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP vTeamCity
+[09:41:33] [Server thread/INFO]: Creating config from template: /Users/johnskees/Desktop/Server/plugins/EssentialsXMPP/config.yml
+[09:41:33] [Server thread/WARN]: config broken for xmpp
+[09:41:33] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[09:41:33] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v1.0
+[09:41:33] [Server thread/INFO]: [Multiverse-Portals] [Multiverse-Portals] - Version 1.0 Enabled - By Rigby and fernferret
+[09:41:33] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit, using it for selections.
+[09:41:33] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5-b335
+[09:41:33] [Server thread/INFO]: [Multiverse-Inventories 2.5-b335] enabled.
+[09:41:33] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP vTeamCity
+[09:41:33] [Server thread/INFO]: Creating config from template: /Users/johnskees/Desktop/Server/plugins/EssentialsGeoIP/config.yml
+[09:41:33] [Server thread/INFO]: Downloading GeoIP database... this might take a while (country: 0.6 MB, city: 20MB)
+[09:41:34] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+[09:41:34] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vTeamCity
+[09:41:35] [Server thread/INFO]: Done (30.780s)! For help, type "help" or "?"
+[09:41:35] [Craft Scheduler Thread - 5/INFO]: [HideStream] Running updater ..
+[09:41:35] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[09:41:35] [Server thread/INFO]: [Multiverse-Inventories] First run!
+[09:41:35] [Craft Scheduler Thread - 9/WARN]: §c[Punishmental] Failsafe Activated to prevent server lock-up
+[09:41:35] [Craft Scheduler Thread - 9/WARN]: §c[Punishmental] If the server was running fine when this happened, please consider deactivating or raising the failsafe value in the Punishmental Config Settings
+[09:41:35] [Craft Scheduler Thread - 9/WARN]: §a[Punishmental] Starting lag checker
+[09:41:35] [Craft Scheduler Thread - 9/WARN]: §a[Punishmental] Lag cheker running
+[09:41:35] [Server thread/INFO]: [Multiverse-Inventories] Created a default group for you containing all of your default worlds: LobbyWorld, LobbyWorld_nether, LobbyWorld_the_end
+[09:41:35] [Craft Scheduler Thread - 5/INFO]: [HideStream] No update was found.
+[09:41:58] [Server thread/INFO]: Stopping the server
+[09:41:58] [Server thread/INFO]: Stopping server
+[09:41:58] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat vTeamCity
+[09:41:58] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP vTeamCity
+[09:41:58] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5-b335
+[09:41:58] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v1.0
+[09:41:58] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[09:41:58] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP vTeamCity
+[09:41:58] [Server thread/INFO]: [Punishmental] Disabling Punishmental v5.1
+[09:41:58] [Server thread/INFO]: [Punishmental]: COMMANDS DISABLED
+[09:41:58] [Server thread/INFO]: [FallDamageSavior] Disabling FallDamageSavior v2.1
+[09:41:58] [Server thread/INFO]: FallDamageSavior Ha sido Deshabilitado!
+[09:41:58] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[09:41:58] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v5.9
+[09:41:58] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+[09:41:58] [Server thread/INFO]: [Multiverse-Core] - Disabled
+[09:41:58] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.8.3
+[09:41:58] [Server thread/INFO]: [ClearLag] Nullifying module fields..
+[09:41:58] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[09:41:58] [Server thread/INFO]: [Launchpads] Disabling Launchpads v3.0.0
+[09:41:58] [Server thread/INFO]: [NoRain] Disabling NoRain v0.2
+[09:41:58] [Server thread/INFO]: [ColorGuide] Disabling ColorGuide v1.3.3
+[09:41:58] [Server thread/INFO]: [FireworkRider] Disabling FireworkRider v1.0
+[09:41:58] [Server thread/INFO]: [AntiCheat] Disabling AntiCheat v2.0.2
+[09:41:58] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.0;3342-78f975b9
+[09:41:58] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.0 (Phoenix)
+[09:41:58] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[09:41:58] [Server thread/INFO]: GroupManager version 2.0 (Phoenix) is disabled!
+[09:41:58] [Server thread/INFO]: [HideStream] Disabling HideStream v3.7
+[09:41:58] [Server thread/INFO]: [HideStream] Version 3.7 disabled.
+[09:41:58] [Server thread/INFO]: [SwearReplacer] Disabling SwearReplacer v1.0
+[09:41:58] [Server thread/INFO]: [0;31;22mSwear[0;32;1mReplacer [mhas been [0;31;1m[21mdisabled[m.[m
+[09:41:58] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.6
+[09:41:58] [Server thread/INFO]: [MultiWorld] Disabled.
+[09:41:58] [Server thread/INFO]: Saving players
+[09:41:58] [Server thread/INFO]: Saving worlds
+[09:41:58] [Server thread/INFO]: Saving chunks for level 'LobbyWorld'/Overworld
+[09:41:59] [Server thread/INFO]: Saving chunks for level 'LobbyWorld_nether'/Nether
+[09:41:59] [Server thread/INFO]: Saving chunks for level 'LobbyWorld_the_end'/The End
